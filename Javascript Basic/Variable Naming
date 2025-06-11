@@ -1,17 +1,23 @@
 // variable Naming Conventions
 
 // 1. Use meaningful names
+
 let userName = "Lalith";
 
 // 2. Use camelCase for multi-word names
+
 let firstName = "Mohan";
 
 // 3. Start with a letter, underscore, or dollar sign
+
 let _Score = 42;
 let $price = 19.99;
 
 // 4. Avoid starting with a number
+
 let item1 = "Apple";
+
+// console.log 
 
 console.log("userName:", userName);
 console.log("firstName:", firstName);
